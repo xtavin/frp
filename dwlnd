@@ -1,0 +1,10 @@
+echo "# frp" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M master
+git remote add origin https://github.com/xtavin/frp.git
+git push -u origin master
+                
+
+https://bit.ly/33Wet71
